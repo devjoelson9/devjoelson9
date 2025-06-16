@@ -28,7 +28,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Sistema de Votação](https://github.com/seuusuario/sistema-votacao) | Sistema de eleição para diretor de campus com regras específicas de proporcionalidade | Java, PostgreSQL |
+| [Sistema de Votação](https://github.com/seuusuario/sistema-votacao) | Sistema de eleição para diretor de campus com regras específicas de proporcionalidade | Java |
 | [Agendamento Médico](https://github.com/seuusuario/agenda-medica) | API REST para agendamento de consultas com autenticação JWT | Spring Boot, JWT, PostgreSQL |
 | [Portfólio Web](https://github.com/seuusuario/portfolio) | Portfólio pessoal feito em React | React, TailwindCSS |
 
