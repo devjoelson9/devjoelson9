@@ -28,7 +28,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Sistema de Votação](https://github.com/devjoelson9/Trabalho-campus) | Sistema de eleição para diretor de campus com regras específicas de proporcionalidade | Java |
+| [Sistema de Votação](https://github.com/devjoelson9/Trabalho-eleicao) | Sistema de eleição para diretor de campus com regras específicas de proporcionalidade | Java |
 | [Agendamento Médico](https://github.com/seuusuario/agenda-medica) | API REST para agendamento de consultas com autenticação JWT | Spring Boot, JWT, PostgreSQL |
 | [Tela de Login](https://github.com/devjoelson9/telaLogin) | API REST para uma tela de login com Autenticação e Autorização |  Java, Spring Boot, JWT, PostegreSQL |
 
