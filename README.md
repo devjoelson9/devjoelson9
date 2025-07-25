@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 Sobre mim
 - 🎓 Formação: Cursando análise e desenvolvimento de sistemas
-- 🌱 Aprendendo atualmente: `Java`, `Spring Boot`, `PostgreSQL`, `JavaScript`
+- 🌱 Aprendendo atualmente: `Java`, `Spring Boot`, `PostgreSQL`
 - 💡 Interesses: Backend, APIs REST, segurança da informação, boas práticas de código
 - 🎯 Objetivo: Criar soluções que impactem positivamente a vida das pessoas
 
