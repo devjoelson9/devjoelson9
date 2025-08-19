@@ -29,9 +29,10 @@
 ### 📌 Projetos em Destaque
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [Sistema de Votação](https://github.com/devjoelson9/Simulador-de-Eleicao-java) | Sistema de eleição para diretor de campus com regras específicas de proporcionalidade | Java |
-| [Agendamento Médico](https://github.com/devjoelson9/agenda-medica) | API REST para agendamento de consultas com autenticação JWT | Spring Boot, JWT, PostgreSQL |
+| [Sistema de Votação](https://github.com/devjoelson9/Trabalho-eleicao) | Simulador de eleição desenvolvido em Java na disciplina de POO, com regras específicas de proporcionalidade e apuração de votos | Java |
+| [CarsAPI](https://github.com/devjoelson9/carsApi) | API REST para gerenciamento de uma concessionária de carros (cadastro, listagem, atualização e exclusão de veículos) | Java, Spring Boot, PostgreSQL |
 | [ToDo List](https://github.com/devjoelson9/todolist) | Aplicação de lista de tarefas com autenticação de usuários | Laravel, Tailwind, PostgreSQL |
+
 
 
 ---
