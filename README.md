@@ -47,7 +47,7 @@
 ### 📫 Contato
 
 - ✉️ Email: [silvaJoelson115@gmail.com]
-- 💼 LinkedIn: [Joelson Souza](www.linkedin.com/in/joelson-souza-2a950a344)
+- 💼 LinkedIn: [Joelson Souza]www.linkedin.com/in/joelson-silva-2a950a344)
 
 
 ---
