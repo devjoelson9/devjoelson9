@@ -29,7 +29,7 @@
 ### 📌 Projetos em Destaque
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [Sistema de Votação](https://github.com/devjoelson9/Trabalho-eleicao) | Sistema de eleição para diretor de campus com regras específicas de proporcionalidade | Java |
+| [Sistema de Votação](https://github.com/devjoelson9/Simulador-de-Eleicao-java) | Sistema de eleição para diretor de campus com regras específicas de proporcionalidade | Java |
 | [Agendamento Médico](https://github.com/devjoelson9/agenda-medica) | API REST para agendamento de consultas com autenticação JWT | Spring Boot, JWT, PostgreSQL |
 | [ToDo List](https://github.com/devjoelson9/todolist) | Aplicação de lista de tarefas com autenticação de usuários | Laravel, Tailwind, PostgreSQL |
 
